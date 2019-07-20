@@ -25,6 +25,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Log File**
 If possible, please attach the log file to the report.
+On Windows you can find it in:
+C:\Users\[USERNAME]\AppData\LocalLow\Sharkbomb Studios\Nowhere Prophet\output_log.text
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
